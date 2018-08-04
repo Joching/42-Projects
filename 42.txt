@@ -1,0 +1,27 @@
+cd ~ changes the directory you are on, to a different one. It seems like the new directory must be under your current one? E.g From Desktop, you can do "cd Desktop/42.txt/" but if you are in 42.txt and you type "cd Desktop/" it won't work?
+
+pwd will tell you what directory you are in
+
+mkdir will make a new directory under the current directory you are viewing. 
+
+ls will list the different files inside your current 
+
+touch ~ will create a file with name: ~
+
+vim ~.txt  will let you open a text file
+
+cp <> () will copy files or directories <> to a new location ()
+
+mv will move a file to a new directory
+
+rm to delete files
+
+rm -rf to delete directories
+
+banner -w 35 <> will make whatever you enter in <> apear in your directory in large font 
+
+say <> will make the computer say whatever you want
+
+This text file is under /nfs/2018/j/joching/Desktop/
+
+
